@@ -11,6 +11,9 @@ description: Hello, Welcome to my GitHub page!
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/52139156?v=4
 
+collections:
+  writeups:
+
 #
 # Flags below are optional
 #

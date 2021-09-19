@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h2>{{ page.ctf }}</h2>
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+  <h2>{{ page.title }}</h2>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <p>Next quest: <a href="{{ site.baseurl }}../{{ page.nextWrite }}" >{{ page.nextWrite }}</a></p>
+
+  {% include disqus.html %}
+</article>
