@@ -1,6 +1,6 @@
 ---
 layout: writeup
-title: "Challenge 05 Istanbul Bazaar"
+title: "Challenge #5 - Istanbul Bazaar"
 ctf: Google CTF 2021 - Beginners Quest
 nextWrite: "Google2021Beginners-06"
 ---

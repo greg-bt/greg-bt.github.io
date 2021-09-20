@@ -5,7 +5,16 @@ permalink: /ctfs/
 ---
 
 <div class="posts">
-    <article class="post">
-      <h1><a href="{{ site.baseurl }}../Google2021Beginners-01">Google CTF 2021 - Beginners Quest</a></h1>
-    </article>
+  <article class="post">
+  <h2>Google CTF 2021 - Beginners Quest</h2>
+
+  <table>
+  {% assign sorted-posts = site.posts | where: "ctf","Google CTF 2021 - Beginners Quest" | reverse %}
+  {% for post in sorted-posts %}
+  
+    <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+  {% endfor %}
+  </table>
+
+  </article>
 </div>

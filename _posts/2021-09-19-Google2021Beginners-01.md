@@ -1,6 +1,6 @@
 ---
 layout: writeup
-title: "Challenge #01 - Novosibirsk Chemical plant"
+title: "Challenge #1 - Novosibirsk Chemical plant"
 ctf: Google CTF 2021 - Beginners Quest
 nextWrite: "Google2021Beginners-02"
 ---

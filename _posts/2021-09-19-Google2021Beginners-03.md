@@ -1,6 +1,6 @@
 ---
 layout: writeup
-title: "Challenge 03 - Moscow Streets"
+title: "Challenge #3 - Moscow Streets"
 ctf: Google CTF 2021 - Beginners Quest
 nextWrite: "Google2021Beginners-04"
 ---
