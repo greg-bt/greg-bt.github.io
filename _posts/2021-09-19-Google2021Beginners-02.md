@@ -1,7 +1,7 @@
 ---
 layout: writeup
-title: "Challenge #2 - Moscow Apartment"
-ctf: Google CTF 2021 - Beginners Quest
+title: "2 - Moscow Apartment"
+ctf: Google CTF 2021 Beginners Quest
 nextWrite: "Google2021Beginners-03"
 ---
 For this challenge we are given a file.

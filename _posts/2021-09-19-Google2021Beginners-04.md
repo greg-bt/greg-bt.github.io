@@ -1,7 +1,7 @@
 ---
 layout: writeup
-title: "Challenge #4 - Secret Location Base"
-ctf: Google CTF 2021 - Beginners Quest
+title: "4 - Secret Location Base"
+ctf: Google CTF 2021 Beginners Quest
 nextWrite: "Google2021Beginners-05"
 ---
 For this challenge we are given a file.

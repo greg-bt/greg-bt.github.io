@@ -1,7 +1,7 @@
 ---
 layout: writeup
-title: "Challenge #1 - Novosibirsk Chemical plant"
-ctf: Google CTF 2021 - Beginners Quest
+title: "1 - Novosibirsk Chemical plant"
+ctf: Google CTF 2021 Beginners Quest
 nextWrite: "Google2021Beginners-02"
 ---
 This first challenge takes us to a [website](https://cctv-web.2021.ctfcompetition.com/ "website") where we are greeted with a password form. Viewing the page source we can see a script tag, containing the `checkPassword` function. This function is ran when we submit the form so our first approach will be to reverse the function.
